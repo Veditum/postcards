@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "postcard": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.48784,
+          30.27249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcard": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.349679,
+          30.707684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcard": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.587002,
+          30.080669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcard": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.516667,
+          29.416667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcard": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.516667,
+          29.416667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcard": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.43319,
+          30.11499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcard": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4308,
+          30.4258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcard": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5434,
+          30.2283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcard": "9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5895,
+          30.108
+        ]
+      }
+    }
+  ]
+}
